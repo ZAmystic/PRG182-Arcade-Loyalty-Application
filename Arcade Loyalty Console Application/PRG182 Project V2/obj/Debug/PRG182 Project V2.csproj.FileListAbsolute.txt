@@ -1,0 +1,14 @@
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.csproj.AssemblyReference.cache
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.exe.config
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.exe
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.pdb
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.exe
+D:\Belgium Campus\PRG182\ClassExample\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.pdb
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.exe.config
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.exe
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\bin\Debug\PRG182 Project V2.pdb
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.csproj.AssemblyReference.cache
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.csproj.CoreCompileInputs.cache
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.exe
+C:\Users\thear\Desktop\PRG182 Project V2\PRG182 Project V2\obj\Debug\PRG182 Project V2.pdb
