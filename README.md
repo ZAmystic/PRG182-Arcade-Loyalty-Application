@@ -14,7 +14,7 @@ A console-based C# application designed to collect, process, and validate custom
 - Stores entries in fixed-length arrays (up to 5,000 applicants)
 - Performs credit qualification checks via `Validation.Credit_Qualification()`
 - Supports continuous input with user-controlled looping
-- Integrated menu navigation (via `OpenMenu.Get_Menu()` placeholder)
+- Integrated menu navigation (via `OpenMenu.Get_Menu()` placeholder
 
 ---
 
